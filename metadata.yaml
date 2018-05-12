@@ -1,0 +1,31 @@
+_repo: Civil-War-Experiences-1862-1865Chickamauga-Mission-Ridge-Buzzard-Roost-Resaca-Rome-New-Hope-C__38859
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38859-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robbins, Edward Mott
+    gutenberg_agent_id: '39685'
+    url: http://www.gutenberg.org/2009/agents/39685
+description: ''
+gutenberg_issued: '2012-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Robbins, Edward Mott'
+- !lcc 'E456'
+- !lcsh 'Illinois -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Illinois Infantry Regiment, 78th (1862-1865)'
+title: 'Civil War Experiences, 1862-1865
+
+  Chickamauga, Mission Ridge, Buzzard Roost, Resaca, Rome, New Hope Church, Kenesaw
+  Mountain, Peach Tree Creek, Atlanta, Jonesboro, Averysboro, Bentonville'
+url: http://www.gutenberg.org/ebooks/38859
