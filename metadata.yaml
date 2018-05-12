@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39685'
     url: http://www.gutenberg.org/2009/agents/39685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38859#Civil-War-Experiences-1862-1865Chickamauga-Mission-Ridge-Buzzard-Roost-Resaca-Rome-New-Hope-C_
 gutenberg_issued: '2012-02-13'
 gutenberg_type: Text
 identifiers:
